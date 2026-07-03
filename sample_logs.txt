@@ -1,6 +1,0 @@
-INFO: User admin logged in successfully
-ERROR: Failed login attempt from IP 192.168.1.10
-ERROR: Failed login attempt from IP 192.168.1.10
-WARNING: Unauthorized access attempt detected
-INFO: File accessed successfully
-ERROR: Failed login attempt from IP 192.168.1.15
